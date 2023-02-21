@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">云彩TV</string>
     <string name="app_home">首页</string>
-    <string name="app_source"></string>
+    <string name="app_source">https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
